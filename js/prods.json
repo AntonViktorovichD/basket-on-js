@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Shirt",
+        "price": 150,
+        "count": 1
+    },
+    {
+        "id": 2,
+        "title": "Socks",
+        "price": 50,
+        "count": 1
+    },
+    {
+        "id": 3,
+        "title": "Jacket",
+        "price": 350,
+        "count": 1
+    },
+    {
+        "id": 4,
+        "title": "Shoes",
+        "price": 250,
+        "count": 1
+    }
+]
